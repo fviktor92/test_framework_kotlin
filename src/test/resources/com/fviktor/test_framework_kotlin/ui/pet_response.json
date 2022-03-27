@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Leslie",
+  "photoUrls": [
+    ""
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "male"
+    }
+  ],
+  "status": "sold"
+}
